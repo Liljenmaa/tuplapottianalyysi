@@ -217,5 +217,5 @@ int main(void)
     
     printf("Tiedostot KaikkiKelat.txt ja Päävoitot.txt (toivottavasti) luotu, tarkista juurikansio.\n");
     
-    return 1;
+    return 0;
 }
